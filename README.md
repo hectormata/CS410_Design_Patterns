@@ -1,1 +1,1 @@
-# CS410_Design_Patterns
+# CS410 - Design Patterns
